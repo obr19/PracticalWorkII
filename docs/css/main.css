@@ -1,0 +1,9 @@
+header div{display: inline-block; width: 800px; height: 100px; background: #cbce88;}
+* {
+    .header {
+        height: 200px;
+        background-color: antiquewhite;
+        text-align: center;
+        text-emphasis: italic;
+    }
+}
